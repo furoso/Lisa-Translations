@@ -21,3 +21,6 @@ This repository will be used as the offical platform for people to upload transl
 Once translations are submitted I will personally verify them and add them to Lisa's source code. Proper credits will be given inside Lisa's preferences.
 
 **NOTE**: The first person that submit a translation for a specific language will be the one I will credit, so be fast.
+
+# Translations submitted
+      - Turkish by serif61
