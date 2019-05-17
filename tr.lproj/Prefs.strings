@@ -1,0 +1,16 @@
+{
+    ANIMATIONS = Animasyonlar;
+    "CANCEL_TITLE" = "\U0130ptal";
+    CUSTOMIZATION = "D\U00fczenlemeler";
+    DISCORD = "Hata Bildirimi, istek vb. G\U00f6ndermek i\U00e7in";
+    ENABLED = Etkin;
+    "HAPTIC_FEEDBACK" = "Dokunma Geri Bildirimi";
+    MISCELLANEOUS = "\U00c7e\U015fitli";
+    "OK_TITLE" = Tamam;
+    PIZZA = "Bana Pizza Ismarlamak \U0130stermisin?";
+    "RESET_ALL" = "T\U00fcm Se\U00e7enek ve Ayarlar\U2019\U0131 S\U0131f\U0131rla";
+    SETTINGS = Ayarlar;
+    "SUPPORT_ME" = "Bana Destek Ol";
+    SURE = "Her\U015feyi S\U0131f\U0131rlamak \U0130stedi\U011fine Eminmisin?";
+    "TEST_NOTIFICATIONS" = "Test Bildirimleri";
+}

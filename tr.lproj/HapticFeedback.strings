@@ -1,0 +1,7 @@
+{
+    "HAPTIC_FEEDBACK" = "Dokunma Geri Bildirimi";
+    LIGHT = Hafif;
+    MEDIUM = Orta;
+    STRONG = "G\U00fc\U00e7l\U00fc";
+    SUPPORTED = "Yanl\U0131zca Dokunma Geri Bildirimi Destekleyen Cihazlar i\U00e7in.";
+}

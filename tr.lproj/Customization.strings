@@ -1,0 +1,30 @@
+{
+    "ACTIVATE_LISA" = "Lisa Etkin...";
+    "ALWAYS_ON" = "Lisa Daima Etkin";
+    "BACK_ALPHA" = "Arka Plan Alfa";
+    BEHAVIOR = Etkin;
+    "BLURRED_BACK" = "Arka Plan Bulan\U0131kl\U0131\U011f\U0131\U2019n\U0131 Etkinle\U015ftir";
+    "DISABLE_BIOMETRICS" = "Lisa Aktifken Face ID\U2019yi Devred\U0131\U015f\U0131 B\U0131rak";
+    EDITOR = "Edit\U00f6r";
+    "EDITOR_WINDOW" = "Edit\U00f6r Kullanarak Dikey Ofseti D\U00fczenleme";
+    "ELEMENTS_VISIBILITY" = "\U00d6\U011fe G\U00f6r\U00fcn\U00fcrl\U00fc\U011f\U00fc";
+    EXCLUSIVELY = "Sadece Medya Oynat\U0131rken";
+    "HIDE_ACTIONS" = "Fla\U015f ve Kamera D\U00fc\U011fmelerini Gizle";
+    "HIDE_ARTSY" = "Artsy Arka Plan\U0131 Gizle";
+    "HIDE_ASTEROID" = "Asteroid\U2019i Gizle";
+    "HIDE_CC" = "Denetim Merkezi ve G\U00f6stergesi\U2019ni Gizle";
+    "HIDE_DOTS" = "Sayfa Noktalar\U0131n\U0131 Gizle";
+    "HIDE_LS_TIME" = "Kilit Ekran\U0131nda Saat\U2019i Gizle";
+    "HIDE_NOTEPAD" = "Notepad\U2019i Gizle";
+    "HIDE_PADLOCK" = "Face ID Kilit i\U015fareti\U2019ni Gizle";
+    "HIDE_SB" = "Etkinlik \U00c7ubu\U011fu\U2019nu (Status Bar)Gizle";
+    "HIDE_XENHTML" = "XenHTML\U2019yi Gizle";
+    "MEDIA_PLAYING" = "Medya Oynat\U0131rken";
+    MISC = "\U00c7e\U015fitli";
+    "NOTIF_ARRIVES" = "Yanl\U0131zca Bildirimler Geldi\U011finde";
+    "NUMBER_TAPS" = "Bildirimleri Yok Saymak i\U00e7in T\U0131klama Say\U0131s\U0131";
+    "ONLY_DND" = "Sadece DND\U2019de";
+    "RESET_OFFSET" = "Medya Oynat\U0131rken Ofseti S\U0131f\U0131rla";
+    "TWEAKS_VISIBILITY" = "Di\U011fer Tweak G\U00f6r\U00fcn\U00fcmleri";
+    "VERTICAL_OFFSET" = "Bildirimler Dikey Ofset";
+}

@@ -1,0 +1,9 @@
+{
+    "ENABLE_FADE_OUT" = "Etkinle\U015ftir";
+    "ENABLE_VO_OUT" = "Etkinle\U015ftir";
+    "FADE_OUT" = "Lisa Kaybolma Animasyonu";
+    "LISA_SPEED_OUT" = "Animasyonun Saniyedeki H\U0131z\U0131";
+    SETTINGS = Ayarlar;
+    "VO_OUT" = "Dikey Animasyon Ofset";
+    "VO_SPEED_OUT" = "Animasyonun Saniyedeki H\U0131z\U0131";
+}
