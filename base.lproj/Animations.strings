@@ -1,0 +1,12 @@
+{
+  "FADE_OUT" = "Lisa fade out animation";
+  "ENABLE_FADE_OUT" = "Enable";
+  "LISA_SPEED_OUT" = "Animation speed in seconds";
+
+  "VO_OUT" = "Vertical offset animation";
+  "ENABLE_VO_OUT" = "Enable";
+  "VO_SPEED_OUT" = "Animation speed in seconds";
+
+  "SETTINGS" = "Settings";
+  "SETTINGS" = "Settings";
+}

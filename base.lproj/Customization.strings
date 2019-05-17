@@ -1,0 +1,35 @@
+{
+  "BEHAVIOR" = "Enabled";
+  "ALWAYS_ON" = "Always ON Lisa";
+  "DISABLE_BIOMETRICS" = "Disable biometrics while Lisa is active";
+  "RESET_OFFSET" = "Reset offset when media is playing";
+
+  "ACTIVATE_LISA" = "Activate Lisa...";
+  "ONLY_DND" = "Only in DND";
+  "NOTIF_ARRIVES" = "Only when notifications arrives";
+  "MEDIA_PLAYING" = "When media is playing";
+  "EXCLUSIVELY" = "Exclusively when media is playing";
+
+  "ELEMENTS_VISIBILITY" = "Elements Visibility";
+  "HIDE_SB" = "Hide Status Bar";
+  "HIDE_CC" = "Hide Control Center Indicator";
+  "HIDE_LS_TIME" = "Hide Lockscreen Time";
+  "HIDE_PADLOCK" = "Hide Face ID Padlock";
+  "HIDE_ACTIONS" = "Hide Torch and Camera Buttons";
+  "HIDE_DOTS" = "Hide Page Dots";
+
+  "TWEAKS_VISIBILITY" = "Other Tweaks Visibility";
+  "HIDE_ARTSY" = "Hide Artsy Background";
+  "HIDE_ASTEROID" = "Hide Asteroid";
+  "HIDE_NOTEPAD" = "Hide Notepad";
+  "HIDE_XENHTML" = "Hide XenHTML";
+
+  "MISC" = "Miscellaneous";
+  "BLURRED_BACK" = "Enable blurred background";
+  "NUMBER_TAPS" = "Number of taps to dismiss screen";
+  "BACK_ALPHA" = "Background alpha";
+  "VERTICAL_OFFSET" = "Notifications vertical offset";
+
+  "EDITOR" = "Editor";
+  "EDITOR_WINDOW" = "Edit vertical offset using editor";
+}
