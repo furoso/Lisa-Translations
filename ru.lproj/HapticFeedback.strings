@@ -1,0 +1,7 @@
+{
+  "SUPPORTED" = "Только для девайсов поддерживающих haptic feeback.";
+  "HAPTIC_FEEDBACK" = "Haptic Feedback";
+  "LIGHT" = "Легко";
+  "MEDIUM" = "Средне";
+  "STRONG" = "Сильно";
+}
