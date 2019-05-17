@@ -22,5 +22,5 @@ Once translations are submitted I will personally verify them and add them to Li
 
 **NOTE**: The first person that submit a translation for a specific language will be the one I will credit, so be fast.
 
-Translations already submitted:
+# Translations submitted
       - Turkish by serif61
