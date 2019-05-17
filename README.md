@@ -1,6 +1,6 @@
 # Lisa Translations
 
-This repository will be used as the offical platform for people to upload translations to Lisa. Follow the one of the instructions below for submitting translations.
+This repository will be used as the offical platform for people to upload translations for Lisa. Follow the one of the instructions below for submitting translations.
 
 # Instructions for GitHub
 1. Clone this repository.
