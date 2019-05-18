@@ -1,0 +1,35 @@
+{
+  "BEHAVIOR" = "Вкючено";
+  "ALWAYS_ON" = "Always ON Lisa";
+  "DISABLE_BIOMETRICS" = "Выключить биометрию когда 'Lisa' активна";
+  "RESET_OFFSET" = "Сбросить отступ когда воспроизводиться медиа";
+
+  "ACTIVATE_LISA" = "Активировать 'Lisa'...";
+  "ONLY_DND" = "Только в режиме 'Не беспокоить'";
+  "NOTIF_ARRIVES" = "Только когда пришли уведомления";
+  "MEDIA_PLAYING" = "Когда воспроизводиться медиа";
+  "EXCLUSIVELY" = "Только лишь когда воспроизводиться медиа";
+
+  "ELEMENTS_VISIBILITY" = "Видимость элементов";
+  "HIDE_SB" = "Скрыть статус бар";
+  "HIDE_CC" = "Скрыть индикатор центра управления";
+  "HIDE_LS_TIME" = "Скрыть часы экрана блокировки";
+  "HIDE_PADLOCK" = "Скрыть подложку Face ID";
+  "HIDE_ACTIONS" = "Скрыть кнопки фонарика и камеры";
+  "HIDE_DOTS" = "Скрыть точки страницц";
+
+  "TWEAKS_VISIBILITY" = "Видимость других твиков";
+  "HIDE_ARTSY" = "Скрыть Artsy Background";
+  "HIDE_ASTEROID" = "Скрыть Asteroid";
+  "HIDE_NOTEPAD" = "Скрыть Notepad";
+  "HIDE_XENHTML" = "Скрыть XenHTML";
+
+  "MISC" = "Прочее";
+  "BLURRED_BACK" = "Включить блюр фона";
+  "NUMBER_TAPS" = "Колличество касаний для отлючения 'Lisa'";
+  "BACK_ALPHA" = "Alpha фона";
+  "VERTICAL_OFFSET" = "Вертикальное смещение уведомлений";
+
+  "EDITOR" = "Редактор";
+  "EDITOR_WINDOW" = "Редактировать вертикальное смещение уведомлений при помощи редактора";
+}
