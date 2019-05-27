@@ -1,0 +1,12 @@
+{
+  "FADE_OUT" = "Ausblenden animieren";
+  "ENABLE_FADE_OUT" = "Aktivieren";
+  "LISA_SPEED_OUT" = "Animationsdauer in Sekunden";
+
+  "VO_OUT" = "Verschiebung animieren";
+  "ENABLE_VO_OUT" = "Aktivieren";
+  "VO_SPEED_OUT" = "Animationsdauer in Sekunden";
+
+  "SETTINGS" = "Einstellungen";
+  "SETTINGS" = "Einstellungen";
+}

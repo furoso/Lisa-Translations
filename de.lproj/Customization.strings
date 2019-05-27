@@ -1,0 +1,35 @@
+{
+  "BEHAVIOR" = "Verhalten";
+  "ALWAYS_ON" = "Lisa immer zeigen";
+  "DISABLE_BIOMETRICS" = "Face ID/Touch ID deaktivieren wenn Lisa aktiv ist";
+  "RESET_OFFSET" = "Verschiebung deaktivieren währed Musik spielt";
+
+  "ACTIVATE_LISA" = "Lisa aktivieren...";
+  "ONLY_DND" = "Nur während Nicht stören";
+  "NOTIF_ARRIVES" = "Nur wenn Benachrichtigungen ankommen";
+  "MEDIA_PLAYING" = "Während Musik spielt";
+  "EXCLUSIVELY" = "Nur während Musik spielt";
+
+  "ELEMENTS_VISIBILITY" = "Objekte ausblenden";
+  "HIDE_SB" = "Statusleiste ausblenden";
+  "HIDE_CC" = "Hinweis zum Kontrollzentrum ausblenden";
+  "HIDE_LS_TIME" = "Sperrbildschirm-Uhr ausblenden";
+  "HIDE_PADLOCK" = "Face ID Schloss ausblenden";
+  "HIDE_ACTIONS" = "Kamera und Taschenlampe ausblenden";
+  "HIDE_DOTS" = "Seitenindikatoren ausblenden";
+
+  "TWEAKS_VISIBILITY" = "Andere Tweaks ausblenden";
+  "HIDE_ARTSY" = "Artsy-Hintergrund ausblenden";
+  "HIDE_ASTEROID" = "Asteroid ausblenden";
+  "HIDE_NOTEPAD" = "Notepad ausblenden";
+  "HIDE_XENHTML" = "XenHTML ausblenden";
+
+  "MISC" = "Weiteres";
+  "BLURRED_BACK" = "Hintergrund weichzeichnen";
+  "NUMBER_TAPS" = "Anzahl der Berührungen zum Deaktivieren";
+  "BACK_ALPHA" = "Hintergrund-Alpha";
+  "VERTICAL_OFFSET" = "Vertikale Verschiebung";
+
+  "EDITOR" = "Editor";
+  "EDITOR_WINDOW" = "Vertikale Verschiebung mit dem Editor bearbeiten";
+}

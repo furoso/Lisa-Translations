@@ -1,0 +1,7 @@
+{
+  "SUPPORTED" = "Nur für Geräte, die haptisches Feedback unterstützen.";
+  "HAPTIC_FEEDBACK" = "Haptisches Feedback";
+  "LIGHT" = "Leicht";
+  "MEDIUM" = "Mittel";
+  "STRONG" = "Stark";
+}
